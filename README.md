@@ -2,14 +2,6 @@
 
 A classic two-player Pong game built with Java Swing. Two players control paddles and compete to score points by getting the ball past their opponent's paddle.
 
-## Screenshot
-
-Add the screenshot to the project repository with the filename `screenshot.png`.
-
-![Pong Game Screenshot](Screenshot 2026-09-10 173536.png)
-
-If you use a different filename or folder, update the image path in the Markdown above.
-
 ## Features
 
 - Two-player local gameplay
