@@ -7,7 +7,7 @@ A classic two-player Pong game built with Java Swing. Two players control paddle
 Add your screenshot here:
 
 ```md
-![Pong Game Screenshot](screenshot.png)
+![Pong Game Screenshot](Screenshot 2026-09-10 173536.png)
 ```
 
 
