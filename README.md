@@ -2,11 +2,6 @@
 
 A classic two-player Pong game built with Java Swing. Two players control paddles and compete to score points by getting the ball past their opponent's paddle.
 
-
-```
-
-
-
 ## Features
 
 - Two-player local gameplay
